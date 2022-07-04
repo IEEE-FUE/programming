@@ -1,4 +1,4 @@
-# source file of a simple game using c++
+# source file of a simple game using c++ (fish game)
 
 
 
